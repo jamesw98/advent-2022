@@ -2,7 +2,7 @@
 
 public class Day
 {
-    private string[] _lines;
+    protected string[] _lines;
 
     protected Day(string filename)
     {
