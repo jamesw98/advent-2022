@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using advent_2022;
 
-Console.WriteLine("Hello, World!");
+var d1 = new Day1("day1.txt");
+Console.WriteLine(d1.Part1());
+Console.WriteLine(d1.Part2());
