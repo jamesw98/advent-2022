@@ -9,3 +9,9 @@ Console.WriteLine("Day 2 ----------");
 var d2 = new Day2("day2.txt");
 Console.WriteLine(d2.Part1());
 Console.WriteLine(d2.Part2());
+
+Console.WriteLine("Day 3 ----------");
+var d3 = new Day3("day3.txt");
+Console.WriteLine(d3.Part1()); // 8185
+Console.WriteLine(d3.Part2()); // 2817
+
