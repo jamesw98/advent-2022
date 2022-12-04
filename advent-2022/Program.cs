@@ -15,3 +15,7 @@ var d3 = new Day3("day3.txt");
 Console.WriteLine(d3.Part1()); // 8185
 Console.WriteLine(d3.Part2()); // 2817
 
+Console.WriteLine("Day 4 ----------");
+var d4 = new Day4("day4.txt");
+Console.WriteLine(d4.Part1()); 
+Console.WriteLine(d4.Part2()); 
